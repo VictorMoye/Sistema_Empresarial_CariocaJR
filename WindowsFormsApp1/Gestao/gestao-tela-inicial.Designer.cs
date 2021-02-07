@@ -62,9 +62,9 @@ namespace WindowsFormsApp1.Gestao
             this.label1.Location = new System.Drawing.Point(16, 18);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(396, 23);
+            this.label1.Size = new System.Drawing.Size(345, 23);
             this.label1.TabIndex = 1;
-            this.label1.Text = "SISTEMA DE GESTÃO - CARIOCA JÚNIOR";
+            this.label1.Text = "SISTEMA DE GESTÃO - CARIOCA Jr.";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // panel2
@@ -146,6 +146,7 @@ namespace WindowsFormsApp1.Gestao
             this.button5.Text = "Projetos";
             this.button5.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button3
             // 
