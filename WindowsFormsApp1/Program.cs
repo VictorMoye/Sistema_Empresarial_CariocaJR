@@ -21,7 +21,7 @@ namespace WindowsFormsApp1
 		{
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
-			Application.Run(new FRM_Tecnologia());
+			Application.Run(new FRM_Marketing());
 
 		}
 
